@@ -2,7 +2,7 @@
 
 > "Nós só podemos ver um pouco do futuro, mas o suficiente para perceber que há muito a fazer." — **Alan Turing**
 
-Assim como Turing previu, entendo que cada linha de código é um passo em direção a esse futuro vasto. Sou um desenvolvedor movido pela curiosidade e pelo desejo de construir ferramentas que transformem o "muito a fazer" em realidade.
+Assim como Turing previu, entendo que cada linha de código seja um passo em direção a esse futuro vasto que ele se refere. Sou um desenvolvedor movido pela curiosidade e pelo desejo de construir ferramentas que transformem o "muito a fazer" em realidade.
 
 ---
 <!--
