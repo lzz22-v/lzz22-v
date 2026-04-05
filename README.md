@@ -30,7 +30,7 @@ Assim como Turing previu, entendo que cada linha de código seja um passo em dir
 ### 🌐 Conecte-se Comigo
 
 <p align="left">
-  <a href="https://www.instagram.com/valeluiz_?igsh=OWdsbXJseDd3N2t1" target="_blank">
+  <a href="https://www.instagram.com/itsbrannox?igsh=OWdsbXJseDd3N2t1" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="mailto:luizvale132@gmail.com" target="_blank">
