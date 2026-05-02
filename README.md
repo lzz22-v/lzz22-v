@@ -337,6 +337,7 @@ const francisco = {
 
 ### 🐍 Contribution Snake
 
+![snake gif](https://github.com/lzz22-v/lzz22-v/blob/output/github-contribution-grid-snake.svg)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lzz22-v/lzz22-v/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lzz22-v/lzz22-v/output/github-contribution-grid-snake.svg"/>
