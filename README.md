@@ -302,7 +302,7 @@ const francisco = {
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 ```
 📱 React Native    ████████████████████░░░░   React para Mobile
@@ -334,19 +334,6 @@ const francisco = {
 <br/>
 
 <div align="center">
-
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/lzz22-v/lzz22-v/blob/output/github-contribution-grid-snake.svg)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lzz22-v/lzz22-v/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lzz22-v/lzz22-v/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/lzz22-v/lzz22-v/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-
-
-</div>
 
 ---
 
