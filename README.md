@@ -343,7 +343,7 @@ const francisco = {
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/lzz22-v/lzz22-v/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-> ⚠️ *Para ativar a snake animation, configure o GitHub Actions no seu repositório de perfil.*
+
 
 </div>
 
