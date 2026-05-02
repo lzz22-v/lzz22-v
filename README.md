@@ -308,7 +308,7 @@ const francisco = {
 📱 React Native    ████████████████████░░░░   React para Mobile
 🔥 Firebase        ████████████████░░░░░░░░   BaaS & Realtime DB
 🏗️ Backend Arch    ████████████░░░░░░░░░░░░   Escalabilidade & Boas Práticas
-🎨 UI/UX Modern   ██████████░░░░░░░░░░░░░░   Interfaces Sofisticadas
+🎨 UI/UX Modern    ██████████░░░░░░░░░░░░░░   Interfaces Sofisticadas
 ```
 
 </div>
