@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00d4ff&height=200&section=header&text=Francisco%20Luiz&fontSize=60&fontColor=00d4ff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20JavaScript%20Enthusiast&descAlignY=58&descSize=20&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00d4ff&height=200&section=header&text=Luiz%20Vale&fontSize=60&fontColor=00d4ff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20JavaScript%20Enthusiast&descAlignY=58&descSize=20&descColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -375,6 +375,6 @@ const francisco = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0d1117,100:000000&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-<sub>⚡ Desenvolvido com 💙 por <a href="https://github.com/lzz22-v">Francisco Luiz</a> · Atualizado em 2025</sub>
+<sub>⚡ Desenvolvido com 💙 por <a href="https://github.com/lzz22-v">Luiz Vale</a> · Atualizado em 2026</sub>
 
 </div>
