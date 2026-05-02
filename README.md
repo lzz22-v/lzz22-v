@@ -38,11 +38,11 @@
 
 ```typescript
 const francisco = {
-  name:      "Francisco Luiz do Vale Sousa",
+  name:      "Luiz Vale",
   username:  "lzz22-v",
   role:      "Full Stack Developer",
   education: "Estudante de TI 🎓",
-  location:  "Brasil 🇧🇷",
+  location:  "Rio de Janeiro, 🇧🇷",
 
   passions: [
     "JavaScript & TypeScript",
@@ -165,67 +165,112 @@ const francisco = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🔐 Gerador de Senhas</h3>
-      <div align="center">
-        <a href="https://github.com/lzz22-v" target="_blank">
-          <img src="https://img.shields.io/badge/VER_PROJETO-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0d1117"/>
-        </a>
-      </div>
-      <p align="center">
-        Gerador de senhas seguras e personalizáveis com opções de comprimento, caracteres especiais, números e letras maiúsculas/minúsculas.
-      </p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">⛪ Site Histórico — Pio XII</h3>
-      <div align="center">
-        <a href="https://github.com/lzz22-v" target="_blank">
-          <img src="https://img.shields.io/badge/VER_PROJETO-0d1117?style=for-the-badge&logo=github&logoColor=ffd700&labelColor=0d1117"/>
-        </a>
-      </div>
-      <p align="center">
-        Site informativo e histórico sobre o papado de Pio XII, desenvolvido com foco em design clean, conteúdo bem estruturado e boa experiência do usuário.
-      </p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🚀 Em Breve — React App</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/EM_BREVE-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117"/>
-      </div>
-      <p align="center">
-        Projeto JavaScript moderno utilizando React com foco em UI/UX sofisticado e arquitetura escalável. Fique ligado! 👀
-      </p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">📱 Em Breve — React Native App</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/EM_BREVE-0d1117?style=for-the-badge&logo=expo&logoColor=white&labelColor=0d1117"/>
-      </div>
-      <p align="center">
-        Aplicativo mobile desenvolvido com React Native e Expo. Projeto em desenvolvimento como parte do aprendizado de tecnologias mobile. 📱
-      </p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-      </div>
-    </td>
+  <h3 align="center">🔐 Gerador de Senhas</h3>
+
+  <div align="center">
+    <a href="https://github.com/lzz22-v" target="_blank">
+      <img src="https://img.shields.io/badge/VER_PROJETO-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=161b22"/>
+    </a>
+  </div>
+
+  <br>
+
+  <p align="center">
+    Aplicação web moderna para geração de senhas seguras e personalizáveis, desenvolvida com foco em segurança, performance e experiência do usuário.
+  </p>
+
+  <p align="center">
+    ⚡ Geração dinâmica • 🔒 Segurança • 🎨 Interface moderna
+  </p>
+
+  <div align="center">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  </div>
+</td>
+
+<td width="50%">
+  <h3 align="center">✝️ Site Histórico — Pio XII</h3>
+
+  <div align="center">
+    <a href="https://github.com/lzz22-v" target="_blank">
+      <img src="https://img.shields.io/badge/VER_PROJETO-0d1117?style=for-the-badge&logo=vercel&logoColor=ffd700&labelColor=161b22"/>
+    </a>
+  </div>
+
+  <br>
+
+  <p align="center">
+    Website documental sobre o pontificado de Pio XII, desenvolvido com estética clássica, tipografia refinada e experiência visual inspirada em arquivos históricos do Vaticano.
+  </p>
+
+  <p align="center">
+    📜 Design cinematográfico • 🕯️ Interface elegante • 🏛️ Estética histórica
+  </p>
+
+  <div align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  </div>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+  <h3 align="center">🌍 theGlobe — RPG Multiplayer App</h3>
+
+  <div align="center">
+    <a href="https://github.com/lzz22-v/the-globe-app" target="_blank">
+      <img src="https://img.shields.io/badge/v2.2.3_Ekaterina-0d1117?style=for-the-badge&logo=socketdotio&logoColor=00ffb3&labelColor=161b22"/>
+    </a>
+  </div>
+
+  <br>
+
+  <p align="center">
+    Plataforma multiplayer para RPG de mesa com comunicação em tempo real, gerenciamento de personagens e sincronização via WebSockets.
+  </p>
+
+  <p align="center">
+    ⚔️ Realtime • 🌐 Multiplayer • 📱 React Native • 🔥 Socket.io
+  </p>
+
+  <div align="center">
+    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  </div>
+</td>
+
+<td width="50%">
+  <h3 align="center">🏥 Sistema para Consultórios</h3>
+
+  <div align="center">
+    <img src="https://img.shields.io/badge/🚧_EM_DESENVOLVIMENTO-0d1117?style=for-the-badge&logo=firebase&logoColor=ffca28&labelColor=161b22"/>
+  </div>
+
+  <br>
+
+  <p align="center">
+    Sistema moderno para gestão de consultórios com autenticação, agendamentos, dashboard administrativo e infraestrutura escalável.
+  </p>
+
+  <p align="center">
+    🩺 Firebase • 📊 Dashboard • 🔐 Auth • ⚡ Node.js
+  </p>
+
+  <div align="center">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  </div>
+</td>
   </tr>
 </table>
 
