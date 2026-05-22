@@ -38,7 +38,7 @@
 
 ```typescript
 const ludwig = {
-  name:      "Luiz Vale",
+  name:      "Luiz Felipe Vale",
   username:  "lzz22-v",
   role:      "Full Stack Developer",
   education: "Estudante de TI 🎓",
