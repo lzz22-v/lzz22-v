@@ -60,7 +60,7 @@ const ludwig = {
     "UI/UX avançado",
   ],
 
-  funFact: "Transformo café em código desde cedo ☕→💻",
+  funFact: "Um programador descafeinado, no bom sentido",
 };
 ```
 
