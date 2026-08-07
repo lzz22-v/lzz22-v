@@ -50,12 +50,13 @@ const ludwig = {
     "React & interfaces modernas",
     "Frontend sofisticado",
     "Aplicações Full Stack",
+    "Tecnologia aplicada à aviação ✈️",
   ],
 
   currentlyLearning: [
     "React Native 📱",
     "Arquitetura de backend escalável",
-    "Firebase & BaaS",
+    "Sistemas em tempo real (WebSockets)",
     "UI/UX avançado",
   ],
 
@@ -90,11 +91,15 @@ const ludwig = {
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
 ### ⚙️ Backend
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)](https://socket.io/)
 
 ### 📱 Mobile
 
@@ -103,6 +108,8 @@ const ludwig = {
 
 ### 🗄️ Banco de Dados
 
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
@@ -164,6 +171,92 @@ const ludwig = {
 
 <table>
   <tr>
+    <td colspan="2">
+  <h3 align="center">✈️ Gate Zero — Flight Information Display System</h3>
+
+  <div align="center">
+    <a href="https://github.com/lzz22-v/gate-zero" target="_blank">
+      <img src="https://img.shields.io/badge/VER_PROJETO-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=161b22"/>
+    </a>
+  </div>
+
+  <br>
+
+  <p align="center">
+    Painel de informações de voos (FIDS) que replica, em tempo real, a experiência dos monitores do <strong>Aeroporto Internacional do Rio de Janeiro–Galeão (GIG)</strong>. Consome dados reais de aviação via API, com logos vetoriais dinâmicas de companhias aéreas, cálculo inteligente de atrasos e tratamento elegante de estados inconsistentes — tudo em JavaScript puro, sem frameworks.
+  </p>
+
+  <p align="center">
+    🛬 Dados reais de aviação • 🎨 Logos dinâmicas por IATA/ICAO • ⏱️ Cálculo de atrasos • 🕳️ UX resiliente a dados ausentes • 📱 100% responsivo
+  </p>
+
+  <div align="center">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AeroDataBox_API-00B4D8?style=flat-square&logo=airplane&logoColor=white"/>
+  </div>
+</td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+  <h3 align="center">🏥 ClinicFlow — Gestão de Consultórios em Tempo Real</h3>
+
+  <div align="center">
+    <img src="https://img.shields.io/badge/🚧_EM_DESENVOLVIMENTO-0d1117?style=for-the-badge&logo=socketdotio&logoColor=00d4ff&labelColor=161b22"/>
+  </div>
+
+  <br>
+
+  <p align="center">
+    Sistema de fila para consultórios com três telas sincronizadas em tempo real — Recepção, Painel Médico e Sala de Espera — via WebSockets. Inclui prontuário eletrônico com editor rico, histórico clínico permanente por paciente e emissão de senha para impressora térmica.
+  </p>
+
+  <p align="center">
+    🔌 Tempo real com Socket.io • 🩺 Prontuário eletrônico • 🗄️ Drizzle ORM + PostgreSQL • 🖨️ Impressão térmica
+  </p>
+
+  <div align="center">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+  </div>
+</td>
+
+<td width="50%">
+  <h3 align="center">🌍 theGlobe — RPG Multiplayer App</h3>
+
+  <div align="center">
+    <a href="https://github.com/lzz22-v/the-globe-app" target="_blank">
+      <img src="https://img.shields.io/badge/v2.2.3_Ekaterina-0d1117?style=for-the-badge&logo=socketdotio&logoColor=00ffb3&labelColor=161b22"/>
+    </a>
+  </div>
+
+  <br>
+
+  <p align="center">
+    Plataforma multiplayer para RPG de mesa com comunicação em tempo real, gerenciamento de personagens e sincronização via WebSockets.
+  </p>
+
+  <p align="center">
+    ⚔️ Realtime • 🌐 Multiplayer • 📱 React Native • 🔥 Socket.io
+  </p>
+
+  <div align="center">
+    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  </div>
+</td>
+  </tr>
+
+  <tr>
     <td width="50%">
   <h3 align="center">🔐 Gerador de Senhas</h3>
 
@@ -216,61 +309,6 @@ const ludwig = {
     <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
   </div>
 </td>
-</tr>
-
-<tr>
-<td width="50%">
-  <h3 align="center">🌍 theGlobe — RPG Multiplayer App</h3>
-
-  <div align="center">
-    <a href="https://github.com/lzz22-v/the-globe-app" target="_blank">
-      <img src="https://img.shields.io/badge/v2.2.3_Ekaterina-0d1117?style=for-the-badge&logo=socketdotio&logoColor=00ffb3&labelColor=161b22"/>
-    </a>
-  </div>
-
-  <br>
-
-  <p align="center">
-    Plataforma multiplayer para RPG de mesa com comunicação em tempo real, gerenciamento de personagens e sincronização via WebSockets.
-  </p>
-
-  <p align="center">
-    ⚔️ Realtime • 🌐 Multiplayer • 📱 React Native • 🔥 Socket.io
-  </p>
-
-  <div align="center">
-    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  </div>
-</td>
-
-<td width="50%">
-  <h3 align="center">🏥 Sistema para Consultórios</h3>
-
-  <div align="center">
-    <img src="https://img.shields.io/badge/🚧_EM_DESENVOLVIMENTO-0d1117?style=for-the-badge&logo=firebase&logoColor=ffca28&labelColor=161b22"/>
-  </div>
-
-  <br>
-
-  <p align="center">
-    Sistema moderno para gestão de consultórios com autenticação, agendamentos, dashboard administrativo e infraestrutura escalável.
-  </p>
-
-  <p align="center">
-    🩺 Firebase • 📊 Dashboard • 🔐 Auth • ⚡ Node.js
-  </p>
-
-  <div align="center">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-  </div>
-</td>
   </tr>
 </table>
 
@@ -293,9 +331,9 @@ const ludwig = {
 | Tecnologia | Progresso | Status |
 |:----------:|:---------:|:------:|
 | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) | `█████████░` 90% | 🔥 Ativo |
-| ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | `████████░░` 80% | 📚 Estudando |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | `███████░░░` 70% | ⚡ Praticando |
-| ![Node.js Architecture](https://img.shields.io/badge/Backend_Architecture-339933?style=flat-square&logo=nodedotjs&logoColor=white) | `██████░░░░` 60% | 🏗️ Construindo |
+| ![Sistemas Realtime](https://img.shields.io/badge/Realtime_Systems-010101?style=flat-square&logo=socketdotio&logoColor=white) | `████████░░` 80% | 📚 Estudando |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | `████████░░` 80% | ⚡ Praticando |
+| ![Node.js Architecture](https://img.shields.io/badge/Backend_Architecture-339933?style=flat-square&logo=nodedotjs&logoColor=white) | `███████░░░` 70% | 🏗️ Construindo |
 | ![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-F24E1E?style=flat-square&logo=figma&logoColor=white) | `█████░░░░░` 50% | 🎨 Explorando |
 
 </div>
@@ -306,8 +344,8 @@ const ludwig = {
 
 ```
 📱 React Native    ████████████████████░░░░   React para Mobile
-🔥 Firebase        ████████████████░░░░░░░░   BaaS & Realtime DB
-🏗️ Backend Arch    ████████████░░░░░░░░░░░░   Escalabilidade & Boas Práticas
+🔌 Realtime Apps   ████████████████░░░░░░░░   WebSockets & Socket.io
+🏗️ Backend Arch    ██████████████░░░░░░░░░░   Escalabilidade & Boas Práticas
 🎨 UI/UX Modern    ██████████░░░░░░░░░░░░░░   Interfaces Sofisticadas
 ```
 
